@@ -1,0 +1,36 @@
+@import "./fonts.css";
+@import "antd/dist/antd.css";
+@import "react-notifications-component/dist/theme.css";
+@import 'animate.css/animate.min.css';
+
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.ant-timeline-item-tail {
+  border-left: 2px solid rgb(24 144 255 / 20%);
+}
+
+.notification__item--default {
+  background-color: transparent !important;
+  border-left: none !important;
+
+}
