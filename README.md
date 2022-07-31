@@ -24,6 +24,7 @@ Application web permettant de partager son code à la communauté et de l'évalu
 
 - Next.JS
 - React.JS
+- Typescript
 - Node.JS
 - MongoDB
 - Redux
