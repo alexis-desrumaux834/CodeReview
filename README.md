@@ -12,12 +12,12 @@ Application web permettant de partager son code à la communauté et de l'évalu
 
 - npm install dans le dossier Back/UserService
 - npm install dans le dossier WebFront
-- npm run start dans le dossier Back/UserService
 - npm run build dans le dossier WebFront
-- npm run start dans le dossier WebFront
 
 ## Démarrage
 
+- npm run start dans le dossier Back/UserService
+- npm run start dans le dossier WebFront
 - Se rendre sur localhost:3000 et créer un compte
 
 ## Fabriqué avec
